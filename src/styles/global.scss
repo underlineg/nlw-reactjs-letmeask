@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;   
+}
+
+body{
+    background-color: #f8f8f8;
+    color: #29292e;
+
+}
+
+body, input, button, textarea{
+    //font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
